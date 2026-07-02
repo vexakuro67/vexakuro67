@@ -73,7 +73,7 @@ And somehow end up becoming a complete rewrite.
 
 *"First make it work. Then make it fast. Then figure out why it broke in production."*
 
-## GitHub Stats
+## My Statistics
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Github%20Stats&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Statistics&include_all_commits=true&theme=chartreuse-dark)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vexakuro67&layout=compact&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=vexakuro67&layout=compact&langs_count=4&theme=chartreuse-dark)
