@@ -1,15 +1,21 @@
 ![Header](./github-header-banner.png)
 
-## About Me
+# Hi there 👋
 
-* Developing MMORPG and action game server systems
-* Working with modern C++ and legacy C++ codebases
-* Building cross-platform networking solutions for Windows and Linux
-* Creating internal web dashboards with TypeScript and Node.js
-* Researching game security, networking, and DDoS mitigation
-* Reverse engineering legacy game clients and server architectures
+I'm a developer who spends most of my time working on game servers, backend systems, and old C++ code that probably should have been rewritten years ago.
 
-## Tech Stack
+Currently rebuilding and modernizing legacy MMORPG infrastructure while experimenting with newer technologies along the way.
+
+## What I'm Working On
+
+* 🎮 Multiplayer game server development
+* ⚙️ Modernizing legacy C++ projects
+* 🌐 Backend services with TypeScript and Node.js
+* 🐧 Linux infrastructure and DDoS protection
+* 🔍 Reverse engineering game clients and protocols
+* 🗄️ PostgreSQL and database architecture
+
+## Tech I Use
 
 ### Languages
 
@@ -35,33 +41,37 @@
 * iptables
 * WireGuard
 
-### Game Development
-
-* DirectX 9
-* DirectX 11
-* TCP/UDP Networking
-* Game Server Architecture
-* Reverse Engineering
-
-## Current Focus
-
-* Rebuilding legacy MMORPG server systems
-* Modernizing old C++ codebases
-* Cross-platform game server development
-* Network security and DDoS protection
-* Internal tooling and automation
-
-## Featured Projects
+## Current Projects
 
 ### Axora
 
-Internal desktop application for managing MMORPG server infrastructure.
+Internal desktop tools for managing MMORPG server infrastructure.
 
 ### Novera
 
-Community and account platform featuring multi-account management architecture.
+Community and account platform.
 
 > United by Purpose. Driven by Legacy.
+
+## Things I Enjoy
+
+* Solving weird networking issues
+* Reading old game source code
+* Optimizing servers
+* Building developer tools
+* Learning how legacy systems actually work
+
+## Fun Fact
+
+Most of my projects start with:
+
+> "I'll just fix this one small thing."
+
+And somehow end up becoming a complete rewrite.
+
+---
+
+*"First make it work. Then make it fast. Then figure out why it broke in production."*
 
 ## GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Github%20Stats&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Statistics&include_all_commits=true&theme=chartreuse-dark)
