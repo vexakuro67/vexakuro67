@@ -71,8 +71,6 @@ And somehow end up becoming a complete rewrite.
 
 ---
 
-*"First make it work. Then make it fast. Then figure out why it broke in production."*
-
 ## My Statistics
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Github%20Stats&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=vexakuro67&custom_title=Statistics&include_all_commits=true&theme=chartreuse-dark)
 
@@ -85,4 +83,4 @@ And somehow end up becoming a complete rewrite.
 
 ---
 
-Focused on building reliable game infrastructure, scalable backend systems, and long-term maintainable software.
+*"First make it work. Then make it fast. Then figure out why it broke in production."*
