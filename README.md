@@ -81,6 +81,7 @@ And somehow end up becoming a complete rewrite.
 ## Contact
 
 * GitHub: https://github.com/vexakuro67
+* Discord: vexakuro
 
 ---
 
