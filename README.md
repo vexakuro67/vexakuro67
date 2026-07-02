@@ -1,6 +1,4 @@
-Full stack Developer • C++ Engineer • Infrastructure Enthusiast
-
-Building multiplayer game systems, server infrastructure, and development tools.
+![Header](./github-header-banner.png)
 
 ## About Me
 
@@ -72,7 +70,7 @@ Community and account platform featuring multi-account management architecture.
 
 ## Contact
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/vexakuro67
 
 ---
 
